@@ -1,14 +1,39 @@
 <h1>Fitness Club</h1>
 <h2>3-ИСП9-19ВБ Налив Александр</h2>
 
-![Screenshot_1](https://user-images.githubusercontent.com/118253920/221683248-39bb4e9d-400d-41cb-a347-f6cdc338fbb8.jpg)
-![Screenshot_11](https://user-images.githubusercontent.com/118253920/221683278-1f1538fa-b15d-4139-ae05-6ffa5bb00c74.jpg)
-![Screenshot_2](https://user-images.githubusercontent.com/118253920/221683281-ccbb5d48-8a06-45e9-b435-cd02e8bff4bb.jpg)
-![Screenshot_3](https://user-images.githubusercontent.com/118253920/221683287-97053fd9-d615-4de6-87f3-178b933bcc00.jpg)
-![Screenshot_4](https://user-images.githubusercontent.com/118253920/221683294-6e2ce1a0-ce37-4259-b943-feb8cd0664ad.jpg)
-![Screenshot_5](https://user-images.githubusercontent.com/118253920/221683297-4bc56d3d-0a62-4776-bc6a-ffd2c61b79b8.jpg)
-![Screenshot_6](https://user-images.githubusercontent.com/118253920/221683304-37acb02f-956c-4322-8f62-87984e2afab6.jpg)
-![Screenshot_7](https://user-images.githubusercontent.com/118253920/221683307-fc023c02-4a9c-4050-b22f-2d8c9a6d8095.jpg)
-![Screenshot_8](https://user-images.githubusercontent.com/118253920/221683313-22239da9-896f-4cdf-aa1e-0e302c9a4309.jpg)
-![Screenshot_9](https://user-images.githubusercontent.com/118253920/221683318-0178cb98-5ba7-4e1b-983e-db6d20a972b3.jpg)
-![Screenshot_10](https://user-images.githubusercontent.com/118253920/221683323-940cfb69-6b05-4475-8f95-08e1202ec320.jpg)
+<b>Окно авторизации</b>
+
+![Screenshot_1](https://user-images.githubusercontent.com/125256682/221681599-4afd11b8-2563-4586-a923-d570d3eda95a.jpg)
+
+<b>Окно авторизации с неверно введенными логином и/или паролем</b>
+
+![Screenshot_9](https://user-images.githubusercontent.com/125256682/221681631-f8d08277-0ba7-4876-82c7-91dd935185df.jpg)
+
+<b>Окно регистрации</b>
+
+![Screenshot_2](https://user-images.githubusercontent.com/125256682/221681635-4a90e5bd-01fc-4847-90d8-ae82c7a4156c.jpg)
+
+<b>Окна ошибки регистрации</b>
+
+![Screenshot_6](https://user-images.githubusercontent.com/125256682/221681646-9fb05639-56db-45b5-bb02-2c7345192d86.jpg)
+![Screenshot_7](https://user-images.githubusercontent.com/125256682/221681649-4f8e6b40-524c-4d35-8172-c51bf0c9cd2d.jpg)
+
+<b>Окно успешной регистрации</b>
+
+![Screenshot_8](https://user-images.githubusercontent.com/125256682/221681651-10367222-553f-43d6-9970-b64573badd3c.jpg)
+
+<b>Окно списка услуг</b>
+
+![Screenshot_3](https://user-images.githubusercontent.com/125256682/221681637-8500e6f5-a3f6-4f61-9ff3-bbcbba02d87a.jpg)
+
+<b>Окно добавления услуги</b>
+
+![Screenshot_4](https://user-images.githubusercontent.com/125256682/221681641-d331544c-c451-46bf-ae21-edbdb70c7882.jpg)
+
+<b>Окно редактирования услуги</b>
+
+![Screenshot_5](https://user-images.githubusercontent.com/125256682/221681645-c8ea9644-917e-4d40-96fa-bc6e16fe8930.jpg)
+
+<b>БД</b>
+
+![Screenshot_11](https://user-images.githubusercontent.com/125256682/221702438-6ddf9335-5c98-43a2-8b76-c796676b66a4.png)
